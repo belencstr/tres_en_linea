@@ -3,7 +3,5 @@
 # Dependency directories
 node_modules/
 
-# archivo package-lock.json
-package-lock.json
 
 
